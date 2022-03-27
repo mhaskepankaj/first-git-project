@@ -1,3 +1,3 @@
 # first-git-project
 first-git-project
-Adding line got git test
+Adding line to git test -> corrected line
